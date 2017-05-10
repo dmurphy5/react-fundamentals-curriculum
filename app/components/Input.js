@@ -7,7 +7,7 @@ class Input extends React.Component {
                 <h1>Enter a City and State</h1>
                 <form>
                     <input
-                        id="location"
+                        className="input"
                         placeholder="Austin, TX"
                         type="text"
                         autoComplete="off"/>
